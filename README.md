@@ -1,2 +1,0 @@
-# djangoAnywhere
-Test PythonAnywhere repo
